@@ -20,3 +20,8 @@
 - Snyk found 74 issues  
 
 ![Snyk Code Quality](snyk-security-code-quality-20241024.png)  
+
+### OWASP ZAP  
+[ZAP Scanning Report](./2024-10-24-ZAP-Report-.pdf)  
+
+![OWASP ZAP](owasp-zap-report-summary-20241024.png)  
