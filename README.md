@@ -21,6 +21,12 @@ https://github.com/J0n-H4rr150n/owasp-juice-shop-practice
   - 10 medium
   - 0 low
 
+##### Semgrep Code  
+- 96 findings
+  - 35 high
+  - 57 medium
+  - 4 low
+
 #### Software Composition Analysis (SCA)
 ##### GitHub Dependabot  
 [https://github.com/J0n-H4rr150n/owasp-juice-shop-practice/security/dependabot](https://github.com/J0n-H4rr150n/owasp-juice-shop-practice/security/dependabot)  
